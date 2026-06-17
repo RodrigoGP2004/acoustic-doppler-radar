@@ -12,7 +12,7 @@ This is a first-year undergraduate physics project developed for the Computation
 3. **Data Visualization:** 
    - Generates 2D frequency-position fits and 3D surface plots mapping frequency variations against source velocity and position.
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `scripts/`: Contains all the MATLAB source code (`.m` files).
   - `Final.m`: Main script for experimental audio slicing, FFT application, and speed calculation.
