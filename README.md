@@ -1,15 +1,7 @@
 # acoustic-doppler-radar
-MATLAB simulation and experimental signal processing (FFT) for an acoustic speed radar based on the Doppler effect, exploring its feasibility. This is a first-year undergraduate physics project developed for the Computation I module, combining both computational modeling and experimental data processing. It extracts the varying frequency of an approaching/receding sound source and calculates its velocity.
+MATLAB simulation and experimental signal processing (FFT) for an acoustic speed radar based on the Doppler effect, exploring its feasibility. 
 
-
-
-
-
-
-
-## ⚙️ Project Overview
-
-The project combines theoretical physical modeling with experimental data processing using **MATLAB**. It extracts the varying frequency of an approaching/receding sound source and calculates its velocity.
+This is a first-year undergraduate physics project developed for the Computation I module, combining both computational modeling and experimental data processing. It extracts the varying frequency of an approaching/receding sound source and calculates its velocity.
 
 ### Key Features:
 1. **Signal Processing:** 
